@@ -1,4 +1,4 @@
-# tic-tac-toi-game-
+# tic-tac-toe-game-
 //1st part
 
 
